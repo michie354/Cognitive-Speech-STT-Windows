@@ -226,7 +226,7 @@ namespace Microsoft.CognitiveServices.SpeechRecognition
         /// </value>
         private string DefaultLocale
         {
-            get { return "en-US"; }
+            get { return "ja-JP"; }
         }
 
         /// <summary>
